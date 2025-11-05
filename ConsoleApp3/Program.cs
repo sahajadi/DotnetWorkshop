@@ -118,7 +118,36 @@
     //    }
     //}
 
-}   
+    //TASK 5
+    //internal class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+            
+    //        Console.WriteLine("--- Task 5: DateTime and TimeSpan ---");
+
+    //        // Create DateTime variable for birthdate
+    //        DateTime birthDate = new DateTime(2004, 6, 18);
+
+    //        // Create DateTime variable for current date and time
+    //        DateTime now = DateTime.Now;
+
+    //        // Calculate age using TimeSpan
+    //        TimeSpan ageSpan = now - birthDate;
+    //        int age = (int)(ageSpan.TotalDays / 365.25); // approximate age in years
+
+    //        // Print birthdate, current date, and age
+    //        Console.WriteLine($"Birthdate: {birthDate.ToShortDateString()}");
+    //        Console.WriteLine($"Current date: {now}");
+    //        Console.WriteLine($"Age: {age} years");
+
+    //        // Add 10 days to birthdate and print
+    //        DateTime newDate = birthDate.AddDays(10);
+    //        Console.WriteLine($"Birthdate + 10 days: {newDate.ToShortDateString()}");
+    //    }
+    //}
+
+}
 
 
 
