@@ -123,7 +123,7 @@
     //{
     //    static void Main(string[] args)
     //    {
-            
+
     //        Console.WriteLine("--- Task 5: DateTime and TimeSpan ---");
 
     //        // Create DateTime variable for birthdate
@@ -147,7 +147,49 @@
     //    }
     //}
 
+    // TASK 6
+    // internal class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+            
+    //        Console.WriteLine("--- Task 6: Generic Collections (List and Dictionary) ---");
+
+    //        // Create a List of favorite fruits
+    //        List<string> fruits = new List<string> { "Mango", "Banana", "Apple" };
+
+    //        // Add a new fruit
+    //        fruits.Add("Orange");
+
+    //        // Remove one fruit
+    //        fruits.Remove("Banana");
+
+    //        // Print all fruits in the list
+    //        Console.WriteLine("Fruits list:");
+    //        foreach (var fruit in fruits)
+    //            Console.WriteLine(fruit);
+
+    //        // Create a Dictionary with fruit IDs
+    //        Dictionary<int, string> fruitDict = new Dictionary<int, string>
+    //        {
+    //            { 1, "Mango" },
+    //            { 2, "Apple" },
+    //            { 3, "Orange" }
+    //        };
+
+    //        // Add a new entry
+    //        fruitDict.Add(4, "Pineapple");
+
+    //        // Print all key-value pairs
+    //        Console.WriteLine("\nFruit Dictionary:");
+    //        foreach (var kvp in fruitDict)
+    //            Console.WriteLine($"ID: {kvp.Key}, Name: {kvp.Value}");
+    //    }
+    //}
+
 }
+
+
 
 
 
